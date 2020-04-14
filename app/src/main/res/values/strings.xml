@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Giriş ve Üyelik İşlemleri</string>
+    <string name="edittexthint">Kullanıcı Adınızı Giriniz.</string>
+    <string name="edittextparola">Parolanızı Giriniz.</string>
+    <string name="girisbtn">Giriş Yap</string>
+    <string name="uyeolbtn">Üye Ol</string>
+
+// uyelik sayfasına ait bilgilerdir
+    <string name="email">E-mail adresinizi giriniz.</string>
+    <string name="telefon">Telefon numaranızı giriniz.</string>
+    <string name="adres">Adresinizi giriniz.</string>
+    <string name="tarih">Tarih giriniz.</string>
+    <string name="uyeolsayfasigirisyapbtn">Giriş Yap</string>
+    <string name="uyeolsayfasikaydetbtn">Kaydet</string>
+</resources>
